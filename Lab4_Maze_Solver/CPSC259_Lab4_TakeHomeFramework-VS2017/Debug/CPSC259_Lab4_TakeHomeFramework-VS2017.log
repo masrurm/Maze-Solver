@@ -1,0 +1,5 @@
+﻿  mazesolver.c
+c:\users\admin\desktop\cpsc259_lab4_takehomeframework-vs2017\cpsc259_lab4_takehomeframework-vs2017\mazesolver.c(41): warning C4101: 'i': unreferenced local variable
+c:\users\admin\desktop\cpsc259_lab4_takehomeframework-vs2017\cpsc259_lab4_takehomeframework-vs2017\mazesolver.c(325): warning C4018: '<': signed/unsigned mismatch
+c:\users\admin\desktop\cpsc259_lab4_takehomeframework-vs2017\cpsc259_lab4_takehomeframework-vs2017\mazesolver.c(130): warning C4716: 'get_maze_dimension': must return a value
+  CPSC259_Lab4_TakeHomeFramework-VS2017.vcxproj -> C:\Users\Admin\Desktop\CPSC259_Lab4_TakeHomeFramework-VS2017\Debug\CPSC259_Lab4_TakeHomeFramework-VS2017.exe
